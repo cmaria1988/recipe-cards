@@ -1,6 +1,9 @@
 /***** Global Styles *****/
 body{
-    background: #DAF7F6;
+    /* background: #DAF7F6; */
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
     color: #3B3B3B;
     font-family:'Open Sans', sans-serif;
     font-size: 12px;
@@ -8,7 +11,7 @@ body{
 }
 
 header{
-    background-color: #ffffff;
+    background-color: #4a756e;
     text-align: center;
 }
 
@@ -18,7 +21,7 @@ h1{
     padding:40px 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 48px;
-    color: #F16059;
+    color: #cab19b;
     text-transform: uppercase;
 }
 
